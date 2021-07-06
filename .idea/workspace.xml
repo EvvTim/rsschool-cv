@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2d16332-546c-4d94-ae02-6f4e281c4780" name="Default Changelist" comment="feat: add cv link" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="rsschool-cv-html" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="EvvTim" />
+        <option name="repository" value="rsschool-cv" />
+      </RepoCoordinatesHolder>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uvuGd6oqjhH6nusfYOncz1e41W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d16332-546c-4d94-ae02-6f4e281c4780" name="Default Changelist" comment="" />
+      <created>1625558290057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625558290057</updated>
+      <workItem from="1625558292496" duration="7096000" />
+      <workItem from="1625565401875" duration="187000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: add CV">
+      <created>1625559374966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625559374966</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: add link">
+      <created>1625559387261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625559387261</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: add link">
+      <created>1625559847765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625559847765</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: add cv link">
+      <created>1625559868171</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625559868171</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: update cv link">
+      <created>1625560044731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625560044731</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: add images">
+      <created>1625561013440</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625561013440</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: update cv">
+      <created>1625564538676</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1625564538676</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: update styles">
+      <created>1625564564586</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1625564564586</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix: remove align attribute">
+      <created>1625564709290</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1625564709290</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: add hidden h1 tag">
+      <created>1625564972824</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1625564972824</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: add cv link">
+      <created>1625565526482</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1625565526482</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add CV" />
+    <MESSAGE value="feat: add link" />
+    <MESSAGE value="feat: update cv link" />
+    <MESSAGE value="feat: add images" />
+    <MESSAGE value="feat: update cv" />
+    <MESSAGE value="feat: update styles" />
+    <MESSAGE value="fix: remove align attribute" />
+    <MESSAGE value="feat: add hidden h1 tag" />
+    <MESSAGE value="feat: add cv link" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add cv link" />
+  </component>
+</project>
