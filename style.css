@@ -134,12 +134,30 @@ main {
 }
 
 .about h2,
-.skills h2 {
+.skills h2,
+.education h2 ,
+.english-level h2{
     padding-bottom: 20px;
     border-bottom: 1px solid #928d8f;
     font-size: 20pt;
     font-weight: 400;
     margin: 0;
+}
+
+.education,
+.english-level{
+    margin-top: 50px;
+    align-self: start;
+}
+
+.education ul li p,
+.english-level ul li p{
+    font-size: 13pt;
+}
+
+.education h3,
+.english-level h3 {
+    font-weight: 300;
 }
 
 .about h2 {
