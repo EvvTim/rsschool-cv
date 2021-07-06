@@ -22,9 +22,10 @@ body {
 
 }
 
-h1 {
-    font-size: 40pt;
-    font-weight: 400;
+.cv-h1 {
+    height: 0;
+    width: 0;
+    display: none;
 }
 
 .hello h2 {
